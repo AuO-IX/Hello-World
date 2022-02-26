@@ -1,3 +1,3 @@
 # Hello-World
 My First Repository
-I think this is where the decription goes.
+My creator learned that this is the place for a description.
